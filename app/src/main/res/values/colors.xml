@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="soft_grey_select_top">#e0dddd</color>
+    <color name="soft_grey_split">#d0d0d0</color>
+    <color name="soft_grey">#777</color>
+    <color name="soft_grey_choose">#aaa</color>
+    <color name="aa">#ff007de3</color>
+    <color name="background">#f2f2f2</color>
+</resources>
